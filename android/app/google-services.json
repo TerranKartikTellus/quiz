@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815995186095",
+    "project_id": "quiz-tkt",
+    "storage_bucket": "quiz-tkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815995186095:android:cd1ff4d2a6a792e88fdd5a",
+        "android_client_info": {
+          "package_name": "org.terrankartiktellus.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815995186095-evlb6cn8gdqq6298umk1fahat2vri55a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3TvidI9aONf9x1ChooPWP5MckqcKayo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815995186095-evlb6cn8gdqq6298umk1fahat2vri55a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
